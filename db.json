@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "0",
+      "name": "Đi test",
+      "status": false,
+      "type": 1,
+      "typeName": "Todo",
+      "time": ""
+    },
+    {
+      "id": "1",
+      "name": "Đi chơi",
+      "status": false,
+      "type": 1,
+      "typeName": "Todo",
+      "time": ""
+    },
+    {
+      "id": "2",
+      "name": "Đi về",
+      "status": true,
+      "type": 3,
+      "typeName": "Todo",
+      "time": ""
+    },
+    {
+      "id": "8871c149-cc14-4f26-9dc7-81dd88ffadb6",
+      "name": "ew",
+      "status": false,
+      "type": "1",
+      "typeName": "Todo",
+      "time": "October 19th 2019, 9:42:31 am"
+    },
+    {
+      "id": "f017c41a-9220-495a-9f99-3296f0a61b67",
+      "name": "Chào",
+      "status": false,
+      "type": 2,
+      "typeName": "Doing",
+      "time": "October 19th 2019, 9:47:56 am"
+    },
+    {
+      "id": "47dad27d-0d62-4c5f-96f3-b66f50d8a298",
+      "name": "alo",
+      "status": false,
+      "type": 3,
+      "typeName": "Doing",
+      "time": "October 19th 2019, 9:48:06 am"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+
+{
+    "dataList": [
+        { "id": "0", "name": "Đi test", "status": false, "type": 1, "typeName": "Todo", "time" : ""},
+        { "id": "1", "name": "Đi chơi", "status": false, "type": 1, "typeName": "Todo" ,"time" : ""},
+        { "id": "2", "name": "Đi về", "status": true, "type": 1, "typeName": "Todo","time" : "" }
+    ]  
+}
